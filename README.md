@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,40:ff5fa8,100:ff8fd0&height=180&section=header&text=Eliot%20Maurice&fontSize=36&fontColor=ffffff&fontAlignY=28&fontAlign=50" alt="Eliot Maurice" width="100%" />
-</p>
+<h1 align="center">Eliot Maurice</h1>
 
 <p align="center">
   <a href="https://eltmrc.io"><img src="./badges/eltmrc.svg" alt="EltMrc.io" height="32" /></a>
