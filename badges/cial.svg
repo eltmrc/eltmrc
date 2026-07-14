@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="108" height="36" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="32" fill="none">
   <defs>
-    <filter id="s" x="-30%" y="-50%" width="160%" height="200%">
-      <feDropShadow dx="0" dy="2" stdDeviation="2.2" flood-color="#000" flood-opacity="0.28"/>
+    <filter id="s" x="-25%" y="-40%" width="150%" height="180%">
+      <feDropShadow dx="0" dy="1" stdDeviation="1.4" flood-color="#000" flood-opacity="0.12"/>
     </filter>
   </defs>
-  <rect x="4" y="4" width="100" height="28" rx="14" fill="#ff5fa8" filter="url(#s)"/>
-  <text x="54" y="22.5" text-anchor="middle" fill="#fff" font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif" font-size="12.5" font-weight="600" letter-spacing="0.01em">cial.app</text>
+  <rect x="3" y="3" width="94" height="26" rx="13" fill="#fdf0f6" stroke="#f0d4e4" stroke-width="1" filter="url(#s)"/>
+  <text x="50" y="20" text-anchor="middle" fill="#a8557a" font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif" font-size="11.5" font-weight="550" letter-spacing="0.01em">cial.app</text>
 </svg>

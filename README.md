@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:ff5fa8,100:ff8fd0&height=140&section=header&text=Eliot%20Maurice&fontSize=42&fontColor=ffffff&fontAlignY=42" alt="Eliot Maurice" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,40:ff5fa8,100:ff8fd0&height=180&section=header&text=Eliot%20Maurice&fontSize=44&fontColor=ffffff&fontAlignY=38&fontAlign=50" alt="Eliot Maurice" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://eltmrc.io"><img src="./badges/eltmrc.svg" alt="eltmrc.io" height="36" /></a>
+  <a href="https://eltmrc.io"><img src="./badges/eltmrc.svg" alt="eltmrc.io" height="32" /></a>
   &nbsp;
-  <a href="https://cial.app"><img src="./badges/cial.svg" alt="cial.app" height="36" /></a>
+  <a href="https://cial.app"><img src="./badges/cial.svg" alt="cial.app" height="32" /></a>
   &nbsp;
-  <a href="https://opencial.ai"><img src="./badges/opencial.svg" alt="OpenCial" height="36" /></a>
+  <a href="https://opencial.ai"><img src="./badges/opencial.svg" alt="OpenCial" height="32" /></a>
   &nbsp;
-  <a href="https://x.com/ByProcyx"><img src="./badges/x.svg" alt="@ByProcyx" height="36" /></a>
+  <a href="https://x.com/ByProcyx"><img src="./badges/x.svg" alt="@ByProcyx" height="32" /></a>
 </p>
 
 ---
