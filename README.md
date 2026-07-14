@@ -14,14 +14,6 @@ Based in **Paris**. Writing notes and articles on [eltmrc.io](https://eltmrc.io)
 &nbsp;
 <a href="https://opencial.ai"><img src="./badges/opencial.svg" alt="OpenCial.ai" height="32" /></a>
 
-### Building now
-
-| Project | Role | What it is |
-| :------ | :--- | :--------- |
-| [**Cial**](https://cial.app) | Co-founder | Managed AI workspace. Security, team workflows, tools for everyone. |
-| [**OpenCial**](https://github.com/eltmrc/opencial) | Creator & maintainer | Self-hosted agents, tools, and a product surface on *your* machine. |
-| [**ClinicPilot**](https://clinicpilot.io) | Co-founder & CTO | AI equipment management for dental practices. |
-
 ### Earlier chapters
 
 <details>
