@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="112" height="32" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" width="116" height="32" fill="none">
   <defs>
     <filter id="s" x="-25%" y="-40%" width="150%" height="180%">
       <feDropShadow dx="0" dy="1" stdDeviation="1.4" flood-color="#000" flood-opacity="0.12"/>
     </filter>
   </defs>
-  <rect x="3" y="3" width="106" height="26" rx="13" fill="#f5f0fa" stroke="#e4d8f0" stroke-width="1" filter="url(#s)"/>
-  <text x="56" y="20" text-anchor="middle" fill="#6b5b80" font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif" font-size="11.5" font-weight="550" letter-spacing="0.01em">eltmrc.io</text>
+  <rect x="3" y="3" width="110" height="26" rx="13" fill="#f5f0fa" stroke="#e4d8f0" stroke-width="1" filter="url(#s)"/>
+  <text x="58" y="20" text-anchor="middle" fill="#6b5b80" font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif" font-size="11.5" font-weight="550" letter-spacing="0.01em">EltMrc.io</text>
 </svg>

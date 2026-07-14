@@ -3,13 +3,11 @@
 </p>
 
 <p align="center">
-  <a href="https://eltmrc.io"><img src="./badges/eltmrc.svg" alt="eltmrc.io" height="32" /></a>
+  <a href="https://eltmrc.io"><img src="./badges/eltmrc.svg" alt="EltMrc.io" height="32" /></a>
   &nbsp;
-  <a href="https://cial.app"><img src="./badges/cial.svg" alt="cial.app" height="32" /></a>
+  <a href="https://cial.app"><img src="./badges/cial.svg" alt="Cial.app" height="32" /></a>
   &nbsp;
-  <a href="https://opencial.ai"><img src="./badges/opencial.svg" alt="OpenCial" height="32" /></a>
-  &nbsp;
-  <a href="https://x.com/ByProcyx"><img src="./badges/x.svg" alt="@ByProcyx" height="32" /></a>
+  <a href="https://opencial.ai"><img src="./badges/opencial.svg" alt="OpenCial.ai" height="32" /></a>
 </p>
 
 ---
