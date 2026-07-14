@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,40:ff5fa8,100:ff8fd0&height=180&section=header&text=Eliot%20Maurice&fontSize=44&fontColor=ffffff&fontAlignY=38&fontAlign=50" alt="Eliot Maurice" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,40:ff5fa8,100:ff8fd0&height=180&section=header&text=Eliot%20Maurice&fontSize=36&fontColor=ffffff&fontAlignY=28&fontAlign=50" alt="Eliot Maurice" width="100%" />
 </p>
 
 <p align="center">
@@ -62,7 +62,6 @@ site      https://eltmrc.io
 product   https://cial.app
 oss       https://opencial.ai
 github    @eltmrc
-x         @ByProcyx
 linkedin  /in/eliot-m-2b43b418b
 discord   https://discord.gg/YBx5CWKhNS
 email     eliot@cial.app
